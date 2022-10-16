@@ -1,3 +1,5 @@
+![logo](https://github.com/Sivabala-sba/Sivabala-sba/blob/main/Sivabala-sba.png)
+
 <h1 align="center">Hi 👋, I'm Sivabala</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
