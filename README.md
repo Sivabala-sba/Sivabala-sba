@@ -1,11 +1,7 @@
 ![logo](https://github.com/Sivabala-sba/Sivabala-sba/blob/main/Sivabala-sba.png)
-
 <h1 align="center">Hi 👋, I'm Sivabala</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1400/0*ZFVRrCKEokQ7_81X.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivabala-sba" alt="sivabala-sba" /></a> </p>
 
 - 🔭 I’m currently working on **my career**
 
