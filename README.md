@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sivabala-sba/Sivabala-sba/blob/main/Sivabala-sba.png)
 <h1 align="center">Hi 👋, I'm Sivabala</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsithcomputers.com%2Fcourses%2Ffull-stack-development-course%2F&psig=AOvVaw17djXRjU9BSeh5MdSBqrNO&ust=1673715239082000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODwxqOBxfwCFQAAAAAdAAAAABAQ">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1400/0*ZFVRrCKEokQ7_81X.gif">
 
 <p align="left"> <a href="https://twitter.com/sivabala_sba" target="blank"><img src="https://img.shields.io/twitter/follow/sivabala_sba?logo=twitter&style=for-the-badge" alt="sivabala_sba" /></a> </p>
 
